@@ -1,4 +1,4 @@
-# Ender-3-V2
+# Ender 3 V2
 ## General Info
     Work In Progress
 Breakdown of fans that can be found in Creality's Ender 3 V2 and fan recommendations to make the printer quieter.
