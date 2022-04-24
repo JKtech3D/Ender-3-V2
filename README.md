@@ -3,8 +3,9 @@
     Work In Progress
 General information regarding the Ender 3 Pro/V2.
 
-### Printer Dimensions:
-440mm x 410mm x 465 mm / 17.5" x 16.5" x 18.5"
+### Printer Dimensions (L x W x H):
+475 mm x 470 mm x 620 mm (w/spool on top)
+475 mm x 470 mm x 490 mm (w/o spool on top)
 
 ### Print bed dimensisons:
 220mm x 200mm x 235mm
